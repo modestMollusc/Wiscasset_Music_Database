@@ -25,8 +25,8 @@ from datetime import date
 DB_CONFIG = {
     "host": "localhost",
     "dbname": "wiscasset",
-    "user": "zebracadabra",
-    "password": "F22oxymoron!",
+    "user": "Insert_your_username_here",
+    "password": "Insert_your_password_here",
 }
 
 def get_connection():
